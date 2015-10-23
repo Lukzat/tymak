@@ -1,0 +1,2 @@
+# tymak
+Týmový vývoj softwaru
